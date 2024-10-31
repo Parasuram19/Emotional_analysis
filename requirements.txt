@@ -1,0 +1,14 @@
+opencv-python-headless
+dlib
+numpy
+pyaudio
+wave
+opensmile
+soundfile
+pandas
+joblib
+threading
+streamlit
+deepface
+matplotlib
+seaborn
