@@ -12,3 +12,4 @@ streamlit
 deepface
 matplotlib
 seaborn
+streamlit_webrtc
