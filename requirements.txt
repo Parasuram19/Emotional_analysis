@@ -1,23 +1,10 @@
-
-
---extra-index-url https://download.pytorch.org/whl/cpu
-pip
 streamlit
-streamlit-webrtc
 opencv-python-headless
 dlib
 numpy
-deepface
 pandas
 matplotlib
 seaborn
-python-av
-aiortc
-typing_extensions
-aioice
-cffi
-cryptography
-packaging
-pyee
-setuptools
-wheel>=0.38.0
+av
+streamlit-webrtc
+deepface
