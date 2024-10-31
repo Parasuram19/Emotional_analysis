@@ -1,4 +1,7 @@
+
 streamlit
+cmake
+libboost-all-dev
 opencv-python-headless
 git+https://github.com/davisking/dlib.git
 numpy
