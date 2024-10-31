@@ -1,7 +1,7 @@
 
 streamlit
 opencv-python-headless
-git+https://github.com/davisking/dlib.git
+
 dlib-19.24.6-cp311-cp311-linux_armv6l.whl
 numpy
 pandas
