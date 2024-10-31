@@ -3,6 +3,7 @@ python3-distutils
 python3-setuptools
 build-essential
 cmake
+libboost-all-dev
 pkg-config
 libx11-dev
 libatlas-base-dev
