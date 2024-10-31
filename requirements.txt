@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-dlib
+git+https://github.com/davisking/dlib.git
 numpy
 pandas
 matplotlib
