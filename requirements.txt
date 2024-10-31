@@ -1,7 +1,6 @@
-
 streamlit
 opencv-python-headless
-dlib-19.24.1-cp311-cp311-win_amd64.whl
+dlib
 numpy
 pandas
 matplotlib
